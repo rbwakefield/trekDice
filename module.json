@@ -1,0 +1,24 @@
+{
+  "name": "trekDice",
+  "title": "Accidental Rob's Trek Dice",
+  "description": "Dice for the final frontier",
+  "author": "Accidental Rob",
+  "version": "1.1.0",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.8",
+  "styles": ["css/trekDice.css"],
+  "dependencies": [
+        {
+            "type": "module",
+            "name": "dice-so-nice"
+        }
+    ],
+  "scripts": [
+        "scripts/trekDice.js"
+  ],
+  "url": "https://github.com/rbwakefield/trekDice",
+  "manifest": "https://raw.githubusercontent.com/rbwakefield/trekDice/main/module.json",
+  "download": "https://raw.githubusercontent.com/rbwakefield/trekDice/main/diceaddiction.zip"
+}
+
+
